@@ -38,3 +38,6 @@ I build and train a neural network using the deep learning framework, PyTorch. I
 ## Project 3: Create Customer Segments with Arvato
 ### Unsupervised Learning
 In this project, I investigate a real dataset of customers for a company, and apply several unsupervised learning techniques in order to segment customers into similar groups and extract information that may be used for marketing or product improvement.
+
+
+![](11222023-machine_learning_nanodegree.svg)
